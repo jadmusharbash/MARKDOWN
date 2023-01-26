@@ -8,4 +8,4 @@ Here is a table showing the specs of this computer.
 | PA-7000       | CPU           |              |              |
 |               | centered      |              |              |
 | zebra stripes | are neat      |              |              | 
-|               |               |              |              |
+|          t    |               |              |              |
