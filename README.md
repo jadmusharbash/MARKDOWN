@@ -14,5 +14,7 @@ Here is a table showing the specs of this computer.
 | QDI SX5EP-A   | Motherboard   | 133 Mhz      | 512          | 70           |
 
 > A video showcasing this computer:
-[![ALT TEXT](https://img.youtube.com/vi/acKkKYa4NkQ&t/0.jpg)](https://www.youtube.com/watch?v=acKkKYa4NkQ&t)
+
+
+[![Computer Showcase!](http://img.youtube.com/vi/acKkKYa4NkQ&t/0.jpg)](http://www.youtube.com/watch?v=acKkKYa4NkQ&t)
 
