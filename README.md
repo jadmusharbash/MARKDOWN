@@ -13,8 +13,11 @@ Here is a table showing the specs of this computer.
 | Apollo VT     | PSU           | Not Specified| Not Specified| 30           |
 | QDI SX5EP-A   | Motherboard   | 133 Mhz      | 512          | 70           |
 
-> A video showcasing this computer:
+A video showcasing this computer:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=acKkKYa4NkQ&t
+" target="_blank"><img src="http://img.youtube.com/vi/acKkKYa4NkQ&t/0.jpg" 
+alt="Computer Showcase" /></a>
 
 
-[![Computer Showcase!](http://img.youtube.com/vi/acKkKYa4NkQ&t/0.jpg)](http://www.youtube.com/watch?v=acKkKYa4NkQ&t)
-
+## This is my own computer!
