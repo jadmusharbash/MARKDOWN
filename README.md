@@ -1,11 +1,20 @@
 # My computer Fanpage!
-> This is the HP750, it was introduced in the year 1991 and costed around 52000$.
+> This is a Windows 98 gaming PC, it was made in the year 1998 and it is my favourite computer!
 
-![image](http://www.hpmuseum.net/images/750-48.jpg)
+![image](https://user-images.githubusercontent.com/123292194/215129274-fa090cea-78b7-4efb-bebb-6cd52d4c50b4.png)
+
 Here is a table showing the specs of this computer.
-| Part        | Type            | Speed        | Memory       |
-| ------------- |:-------------:|:-------------|:-------------|
-| PA-7000       | CPU           |              |              |
-|               | centered      |              |              |
-| zebra stripes | are neat      |              |              | 
-|          t    |               |              |              |
+| Part          | Type          | Speed        | Memory (MB)  | Price ($)    |
+| ------------- |:-------------:|:-------------|:-------------|:-------------|
+| Intel Celeron | CPU           | 1200 Mhz     | Not Specified| 100          |
+| ATI RAGE 128  | GPU           | 130 Mhz      | 32           | 200          |
+| Maxtor D740X  |(HDD) Storage  | 7200 RPM     | 2            | 50           |
+| RAM           | Memory (RAM)  | Not Specified| 512          | 40           |
+| Apollo VT     | PSU           | Not Specified| Not Specified| 30           |
+| QDI SX5EP-A   | Motherboard   | 133 Mhz      | 512          | 70           |
+
+> A video showcasing this computer:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=acKkKYa4NkQ&t=7s&ab_channel=RandomGaminginHD
+" target="_blank"><img src="http://img.youtube.com/vi/acKkKYa4NkQ&t=7s&ab_channel=RandomGaminginHD/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
