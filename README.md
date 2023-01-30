@@ -19,7 +19,8 @@ A video showcasing this **computer**:
 " target="_blank"><img src="http://img.youtube.com/vi/acKkKYa4NkQ&t/0.jpg" 
 alt="Computer Showcase" /></a>
 
-
+I like this computer a lot, this is because of the amazing specs it has, such as the Intel Celeron which is known to be one of the fastest CPU's! :trollface:
+ 
 ## This is my own computer!
 
 ![image](https://www.notebookcheck-cn.com/uploads/tx_nbc2/4zu3_Lenovo_Ideapad_5_14ARE05.jpg)
