@@ -21,3 +21,15 @@ alt="Computer Showcase" /></a>
 
 
 ## This is my own computer!
+
+![image](https://www.notebookcheck-cn.com/uploads/tx_nbc2/4zu3_Lenovo_Ideapad_5_14ARE05.jpg)
+
+Here is a table showing the specs of my computer, look at the differences!
+| Part          | Type          | Speed        | Memory (MB)  | Price ($)    |
+| ------------- |:-------------:|:-------------|:-------------|:-------------|
+| Intel Celeron | CPU           | 1200 Mhz     | Not Specified| 100          |
+| ATI RAGE 128  | GPU           | 130 Mhz      | 32           | 200          |
+| Maxtor D740X  |(HDD) Storage  | 7200 RPM     | 2            | 50           |
+| RAM           | Memory (RAM)  | Not Specified| 512          | 40           |
+| Apollo VT     | PSU           | Not Specified| Not Specified| 30           |
+| QDI SX5EP-A   | Motherboard   | 133 Mhz      | 512          | 70           |
