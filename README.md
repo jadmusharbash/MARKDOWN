@@ -36,3 +36,7 @@ Here is a table showing the specs of my computer, look at the differences!
 | LNVNB161216   | Motherboard   | 3600Mhz      | 16000        | 100          |
 
 ~~This is the end of my fanpage!~~
+
+
+_config.yml
+Unknown File
