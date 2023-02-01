@@ -38,5 +38,4 @@ Here is a table showing the specs of my computer, look at the differences!
 ~~This is the end of my fanpage!~~
 
 
-_config.yml
-Unknown File
+
