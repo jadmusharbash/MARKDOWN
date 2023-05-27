@@ -1,4 +1,4 @@
-# *My computer Fanpage!* :smile:
+# *My computer Fanpage!* 
 > This is a Windows 98 gaming PC, it was made in the year 1998 and it is my favourite computer!
 
 ![image](https://user-images.githubusercontent.com/123292194/215129274-fa090cea-78b7-4efb-bebb-6cd52d4c50b4.png)
